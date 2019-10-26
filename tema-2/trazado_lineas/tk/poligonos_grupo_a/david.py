@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: David
+"""
 from Tkinter import *
 
 class David:

@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Nicole Rodriguez
+"""
 from Tkinter import *
 
 class Nicole:

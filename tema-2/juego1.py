@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Programa por Cynthia Barron y Alfredo Santos
 import random
 import textwrap
 import time

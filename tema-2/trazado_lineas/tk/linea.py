@@ -1,3 +1,7 @@
+# coding: utf-8
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 from Tkinter import*
 import tkColorChooser #libreria para obtener la gama de colores
 

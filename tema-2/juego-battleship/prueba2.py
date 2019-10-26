@@ -1,4 +1,9 @@
 # coding=utf-8
+
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
+
 palabra = 'holanda'
 cantidadletras = len(palabra)
 

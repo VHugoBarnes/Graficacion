@@ -1,5 +1,7 @@
 # encoding: utf-8
-
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 
 # EJEMPLO 1
 # El cuerpo del bucle se ejecuta tantas veces como elementos tenga el elemento recorrible (elementos de una lista o de range(), caracteres de una cadena, etc.). Por ejemplo:

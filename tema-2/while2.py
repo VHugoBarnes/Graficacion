@@ -1,5 +1,7 @@
 # encoding: utf8
-
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 
 def _sacarimpar(numeroin, numerofin):
     while numeroin <= numerofin:

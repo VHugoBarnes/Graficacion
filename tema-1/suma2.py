@@ -1,3 +1,8 @@
+
+"""
+    Programa escrito por: yolyrdz.blogspot.com
+"""
+
 from math import *
 import time
 

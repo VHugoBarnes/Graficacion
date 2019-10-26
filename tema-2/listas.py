@@ -1,4 +1,7 @@
 # encoding: utf8
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 
 # variable global
 global array

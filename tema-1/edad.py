@@ -1,5 +1,9 @@
 # encoding: utf-8
 
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
+
 print('¿Cuantos años tienes?')
 edad = input()
 

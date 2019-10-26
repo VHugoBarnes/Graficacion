@@ -2,6 +2,7 @@
 
 """
 Código escrito por: Nicole Rodriguez González y Víctor Hugo Vázquez Gómez
+
                                                     BATALLA NAVAL
 
 Representación de cómo se verá el juego

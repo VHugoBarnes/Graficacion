@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Jesus
+"""
 from Tkinter import *
 
 class Jesus:

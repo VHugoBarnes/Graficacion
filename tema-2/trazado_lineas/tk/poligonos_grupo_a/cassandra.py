@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+"""
+    Programa escrito por: Cassandra González
+"""
 from Tkinter import *
 import tkColorChooser #libreria para obtener gama de colores
 

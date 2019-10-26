@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+"""
+    Programa escrito por: alfredodejesussantosgutierrez.blogspot.com
+"""
 from Tkinter import *
 import tkColorChooser  # libreria para obtener la gama de colores
 

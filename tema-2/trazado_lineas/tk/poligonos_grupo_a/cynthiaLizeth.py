@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Cynthia Lizeth
+"""
 from Tkinter import *
 
 class CynthiaLizeth:

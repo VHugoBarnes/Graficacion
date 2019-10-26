@@ -1,3 +1,8 @@
+
+"""
+    programa escrito por: abundisgraficacion.blogspot.com
+"""
+
 import pygame
 import random
 

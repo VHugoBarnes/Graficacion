@@ -1,11 +1,14 @@
+"""
+    Programa escrito por: wxpython
+"""
 # First things, first. Import the wxPython package.
 from wx import *
 
 # Next, create an application object.
-app = Wx.App()
+app = wx.App()
 
 # Then a frame.
-frm = Wx.Frame(None, title="Hello world")
+frm = wx.Frame(None, title="Hello world")
 
 # Show it.
 frm.Show()

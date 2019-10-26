@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Programa de Alexis y Hector
 import os, sys
 import random
 

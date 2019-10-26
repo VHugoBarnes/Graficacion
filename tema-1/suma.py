@@ -1,4 +1,7 @@
 # Programa suma basica.
+"""
+    Programa escrito por: yolyrdz.blogspot.com
+"""
 import time
 
 print 'Ingresa un primer valor:'

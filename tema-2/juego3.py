@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #JUEGO DE PIEDRA PAPEL TIJERAS
+# Programa de no sé
 import random
 
 jugando = True #Mientras jugando sea verdad seguira corriendo

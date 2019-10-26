@@ -1,5 +1,7 @@
 # encoding: utf-8
-
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 
 def _cuotas(prestamo, meses):
     cuotas = prestamo / meses

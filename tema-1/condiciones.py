@@ -1,4 +1,9 @@
 # encoding: UTF-8
+
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
+
 print 'Dame un valor:'
 a = input()
 

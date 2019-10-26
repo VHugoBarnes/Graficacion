@@ -1,4 +1,7 @@
 # coding=utf-8
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 from Tkinter import *
 import alfredo, brandon, cassandra, cynthiaLizeth, david, eduardoLeal, erickAlexis, franciscoJavier, jesus, kenneth, luis, nicole, victorHugo
 

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Programa por Brandon Esquivel y Cassandra González
 
 import random
 from time import sleep

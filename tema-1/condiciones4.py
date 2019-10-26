@@ -1,5 +1,8 @@
 # encoding: utf-8
 
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 
 def _mayor(num1,num2):
     if num2 % num1 == 0:

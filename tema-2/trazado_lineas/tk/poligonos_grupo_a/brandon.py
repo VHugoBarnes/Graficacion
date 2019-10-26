@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Brandon Esquivel
+"""
 from Tkinter import *
 
 class Brandon:

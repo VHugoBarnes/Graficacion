@@ -1,3 +1,6 @@
+"""
+programa escrito por: yolyrdz.blogspot.com
+"""
 from Tkinter import *
 import pygame
 

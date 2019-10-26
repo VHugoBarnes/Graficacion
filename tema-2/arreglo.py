@@ -1,5 +1,7 @@
 # coding=utf-8
 """
+Programa escrito por: Víctor Hugo Vázquez Gómez
+
                                                     GRAFICACIÓN
                                                     24/09/2019
 PROGRAMA QUE MANEJA DISTINTOS TIPOS DE LISTAS

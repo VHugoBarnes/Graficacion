@@ -1,5 +1,8 @@
 # encoding: UTF-8
 
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 
 def _iniciar(monto):
     dulce = raw_input('Elija la letra: ')

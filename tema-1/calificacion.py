@@ -1,5 +1,9 @@
 # encoding: UTF-8
 
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
+
 def _notas(nota):
     if nota >= 0 and nota <= 3:
         return 'Insuficiente'

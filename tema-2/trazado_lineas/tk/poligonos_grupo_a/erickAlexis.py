@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Erick Alexis
+"""
 from Tkinter import*
 
 class ErickAlexis:

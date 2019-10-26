@@ -1,4 +1,7 @@
 # coding=utf-8
+"""
+    Programa escrito por: Víctor Hugo Vázquez Gómez
+"""
 from Tkinter import *
 
 class VictorHugo:

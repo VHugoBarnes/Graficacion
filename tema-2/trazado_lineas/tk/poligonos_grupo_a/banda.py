@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Alberto Banda
+"""
 from Tkinter import*
 import tkColorChooser
 

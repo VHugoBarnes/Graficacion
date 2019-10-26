@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Luis Molina
+"""
 from Tkinter import *
 
 class Luis:

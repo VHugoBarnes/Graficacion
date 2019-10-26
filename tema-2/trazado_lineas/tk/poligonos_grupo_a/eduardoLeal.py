@@ -1,3 +1,6 @@
+"""
+    Programa escrito por: Eduardo Leal
+"""
 from Tkinter import *
 
 class EduardoLeal:

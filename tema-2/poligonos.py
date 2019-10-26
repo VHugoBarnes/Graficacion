@@ -1,3 +1,4 @@
+# Programa por no se
 from Tkinter import *
 
 
